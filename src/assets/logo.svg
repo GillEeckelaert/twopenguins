@@ -1,1 +1,13 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 100"><defs><style>.cls-1{fill:#1697f6;}.cls-2{fill:#7bc6ff;}.cls-3{fill:#1867c0;}.cls-4{fill:#aeddff;}</style></defs><title>Artboard 46</title><polyline class="cls-1" points="43.75 0 23.31 0 43.75 48.32"/><polygon class="cls-2" points="43.75 62.5 43.75 100 0 14.58 22.92 14.58 43.75 62.5"/><polyline class="cls-3" points="43.75 0 64.19 0 43.75 48.32"/><polygon class="cls-4" points="64.58 14.58 87.5 14.58 43.75 100 43.75 62.5 64.58 14.58"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+    <style>
+    </style>
+    <g class="penguin" id="Penguin_Logo">
+        <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="265.698" y1="469.772" x2="780.932" y2="657.301">
+        <stop offset=".552"/>
+        <stop offset="1" stop-color="#333"/>
+        </linearGradient>
+        <circle cx="523.31" cy="563.54" r="274.08" fill="url(#SVGID_1_)"/>
+        <path d="M797.32 552.37l142.56 73.04c11.8 6.05 9.06 23.65-4.03 25.82l-228.26 37.75c-19.16 3.17-32.59-18.39-21.3-34.19l65.24-91.29c10.39-14.54 29.88-19.28 45.79-11.13z" fill="#f15a24"/>
+        <path d="M939.88 625.42c11.8 6.05 9.06 23.65-4.03 25.82l-228.26 37.75c-19.16 3.17-32.59-18.39-21.3-34.19" opacity=".15" fill="red"/>
+    </g>
+</svg>
